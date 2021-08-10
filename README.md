@@ -1,4 +1,4 @@
-# @Alwinseb01's GitHub Skylines
+# <a href="https://github.com/Alwinseb01">@Alwinseb01</a>'s GitHub Skylines
 
 My GitHub story in 3D. View a 3D model of my GitHub contribution graph.
 
