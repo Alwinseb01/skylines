@@ -70,8 +70,8 @@ export default defineComponent({
     const repoLink = computed(() => `https://github.com/${username.value}/${repo.value}`)
 
     const skylineList = computed(() => {
-      return Array(2).fill().map((v, i) => {
-        const year = new Date().getFullYear() - 1 - i
+      return Array(3).fill().map((v, i) => {
+        const year = new Date().getFullYear() - i
         const title = `${username.value}-${year}.stl`
 
         return {
