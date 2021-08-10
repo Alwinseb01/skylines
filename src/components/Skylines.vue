@@ -70,7 +70,7 @@ export default defineComponent({
     const repoLink = computed(() => `https://github.com/${username.value}/${repo.value}`)
 
     const skylineList = computed(() => {
-      return Array(8).fill().map((v, i) => {
+      return Array(1).fill().map((v, i) => {
         const year = new Date().getFullYear() - 1 - i
         const title = `${username.value}-${year}.stl`
 
@@ -126,5 +126,4 @@ export default defineComponent({
   -webkit-text-fill-color: transparent;
   -webkit-box-decoration-break: clone;
 }
-</style>
 </style>
