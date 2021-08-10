@@ -9,6 +9,7 @@ My GitHub story in 3D. View a 3D model of my GitHub contribution graph.
 
 ## Stories
 
+* [2021](https://skyline.github.com/alwinseb01/2021)
 * [2020](./Alwinseb01-2020.stl)
 * [2019](./Alwinseb01-2019.stl)
 
